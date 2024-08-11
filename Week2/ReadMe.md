@@ -1,0 +1,2 @@
+Overview
+This Jupyter notebook provides an exploratory data analysis (EDA) of a weather dataset. The analysis focuses on understanding the relationships between various weather parameters, including temperature, dew point temperature, relative humidity, wind speed, visibility, and atmospheric pressure. Through data cleaning, visualization, and correlation analysis, the notebook aims to uncover patterns and insights that can be used for further weather-related studies.
